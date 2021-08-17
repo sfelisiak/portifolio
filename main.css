@@ -19,7 +19,7 @@ body{
 body{
     font-family: monospace;
     margin-bottom: -25px;
-    text-align:center;
+    text-align:justify;
     padding: 50px;
     font-weight:bold;
 }
@@ -58,6 +58,7 @@ h3{
          color:#363636;
         font-size: 15px;
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+       
         }
 
 
