@@ -90,7 +90,7 @@ img{
 
   background: #f0e9e9; /* cor do fundo */
 
-  color: #fff; /*cor do icone */
+  color: #pink; /*cor do icone */
 
 }
 
@@ -99,7 +99,7 @@ img{
 
     background: #ccc; /*  cor de fundo com mouse encima */
 
-    color: #fff;  /* cor do icone com mouse encima */
+    color: #red;  /* cor do icone com mouse encima */
 
     opacity: 0.7;
 
